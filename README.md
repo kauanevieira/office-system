@@ -4,3 +4,4 @@
 [x] React Hook Form
 [x] Notificação toast (sonner)
 [x] Página de Cadastro
+[x] Layout do app com cabeçalho
